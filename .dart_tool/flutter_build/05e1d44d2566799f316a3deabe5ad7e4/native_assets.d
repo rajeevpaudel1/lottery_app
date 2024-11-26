@@ -1,0 +1,1 @@
+ D:\\Flutter\\lottery_app\\.dart_tool\\flutter_build\\05e1d44d2566799f316a3deabe5ad7e4\\native_assets.yaml: 
